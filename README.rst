@@ -12,4 +12,4 @@ Installation
 
 .. code-block:: bash
 
-   pip install is-number
+   pip install is-number-test
