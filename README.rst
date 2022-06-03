@@ -1,5 +1,5 @@
-is-number
-=========
+is-number-test
+==============
 
 .. image:: https://img.shields.io/pypi/v/is-number-test
    :target: https://pypi.org/project/is-number-test/
