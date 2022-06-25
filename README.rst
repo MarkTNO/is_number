@@ -4,6 +4,13 @@ is-number-test
 .. image:: https://img.shields.io/pypi/v/is-number-test
    :target: https://pypi.org/project/is-number-test/
    :alt: PyPI
+.. image:: https://github.com/MarkTNO/is_number/actions/workflows/ci.yaml/badge.svg
+   :target: https://github.com/MarkTNO/is_number/actions/workflows/ci.yaml
+   :alt: GitHub Actions - CI
+.. image:: https://github.com/MarkTNO/is_number/actions/workflows/pre-commit.yaml/badge.svg
+   :target: https://github.com/MarkTNO/is_number/actions/workflows/pre-commit.yaml
+   :alt: PyPI
+.. image:: https://img.shields.io/codecov/c/github/MarkTNO/is_number   :alt: Codecov
 
 A Python library to determine if something is a number.
 
